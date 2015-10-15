@@ -1,6 +1,6 @@
 require 'fileutils'
 
-APP_NAME = 'glork'
+APP_NAME = 'go-react-core'
 
 desc "Build for release"
 task :release do
